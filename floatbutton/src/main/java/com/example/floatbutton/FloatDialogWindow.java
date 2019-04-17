@@ -16,9 +16,10 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
-import com.example.floatwindow.bean.FloatWindowItemBean;
-import com.example.floatwindow.utils.DensityUtils;
-import com.example.floatwindow.utils.StatusBarUtils;
+import com.example.floatbutton.bean.FloatWindowItemBean;
+import com.example.floatbutton.utils.DensityUtils;
+import com.example.floatbutton.utils.StatusBarUtils;
+
 
 import java.util.ArrayList;
 import java.util.List;
